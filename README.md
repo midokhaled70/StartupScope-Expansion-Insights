@@ -2,6 +2,7 @@
 Here's a clean and informative `README.md` file for your **Data Analysis Capstone** project:
 
 ---
+![statupexpansion](https://github.com/user-attachments/assets/9055cf0b-81a2-4f6f-9df7-87957e5fba0d)
 
 ```markdown
 # 📊 Data Analysis Capstone – Startup Expansion
