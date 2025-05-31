@@ -1,6 +1,4 @@
 
-Here's a clean and informative `README.md` file for your **Data Analysis Capstone** project:
-
 ---
 ![statupexpansion](https://github.com/user-attachments/assets/9055cf0b-81a2-4f6f-9df7-87957e5fba0d)
 
@@ -101,7 +99,6 @@ Thanks to the data providers and the inspiration to analyze startup business exp
 
 ---
 
-Let me know if you want to include sample charts or add sections like project motivation, hypotheses, or further analysis ideas.
 
 Store ID | City | State | Sales Region | New Expansion | Marketing Spend | Revenue | Profit | ROMS | ROMS%
 1 | Peoria | Arizona | Region 2 | Old | 2601 | 48610 | 46009 | 1768.9 | 17.689
