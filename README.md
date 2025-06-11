@@ -3,6 +3,7 @@
 ![statupexpansion](https://github.com/user-attachments/assets/9055cf0b-81a2-4f6f-9df7-87957e5fba0d)
 
 ```markdown
+this is a great Dashboard by powerpi
 # 📊 Data Analysis Capstone – Startup Expansion
 
 This project presents a comprehensive data analysis of startup expansion across various cities and states. The dataset contains information about marketing spend, revenue, store location, and expansion status, which we explore and analyze to generate meaningful insights.
