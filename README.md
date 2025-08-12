@@ -101,7 +101,7 @@ Thanks to the data providers and the inspiration to analyze startup business exp
 ---
 
 **Author**
---Mi
+--Mid
 Store ID | City | State | Sales Region | New Expansion | Marketing Spend | Revenue | Profit | ROMS | ROMS%
 1 | Peoria | Arizona | Region 2 | Old | 2601 | 48610 | 46009 | 1768.9 | 17.689
 2 | Midland | Texas | Region 2 | Old | 2727 | 45689 | 42962 | 1575.43 | 15.7543
